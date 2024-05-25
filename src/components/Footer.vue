@@ -10,7 +10,7 @@
             <router-link to="/order" class="nav-item"><van-icon name="coupon-o" size="30"/>订单</router-link>
         </div>
          <div class="item">
-            <router-link to="/mine" class="nav-item" ><van-icon name="manager-o" size="30"/>我的</router-link>
+            <router-link to="/mine" class="nav-item" ><van-icon name="manager-o" size="30"/>个人中心</router-link>
         </div>
     </div>
 </template>
