@@ -7,7 +7,7 @@
             <router-link to="/cart" class="nav-item" ><van-icon name="shopping-cart-o" size="30"/>购物车</router-link>
         </div>
          <div class="item">
-            <router-link to="/order" class="nav-item"><van-icon name="coupon-o" size="30"/>订单</router-link>
+            <router-link to="/order" class="nav-item"><van-icon name="coupon-o" size="30"/>个人订单</router-link>
         </div>
          <div class="item">
             <router-link to="/mine" class="nav-item" ><van-icon name="manager-o" size="30"/>个人中心</router-link>
